@@ -1,0 +1,114 @@
+{
+  "header": {
+    "pages": {
+      "home": "Home",
+      "world": "World",
+      "politics": "Politics",
+      "tech": "Tech",
+      "sport": "Sports",
+      "culture": "Culture"
+    },
+    "search": "Search"
+  },
+  "footer": {
+    "pages": {
+      "world": "World",
+      "politics": "Politics",
+      "business": "Business",
+      "tech": "Tech",
+      "sport": "Sports",
+      "culture": "Culture"
+    },
+    "subpages": {
+      "africa": "Africa",
+      "america": "America",
+      "asia": "Asia",
+      "australia": "Australia",
+      "china": "China",
+      "europe": "Europe",
+      "india": "India",
+      "middleEast": "Middle East",
+      "ukrain": "Ukraine",
+      "facts": "Facts",
+      "currentYear": "2025",
+      "midterms": "Midterms",
+      "markets": "Markets",
+      "tech": "Tech",
+      "media": "Media",
+      "success": "Success",
+      "perspectives": "Perspectives",
+      "videos": "Videos",
+      "innovate": "Innovate",
+      "gadget": "Gadget",
+      "foreseeable": "Foreseeable",
+      "future": "Future",
+      "ahead": "Ahead",
+      "upstarts": "Upstarts",
+      "work": "Work",
+      "transformed": "Transformed",
+      "innovative": "Innovative",
+      "cities": "Cities",
+      "football": "Football",
+      "tennis": "Tennis",
+      "golf": "Golf",
+      "olympics": "Olympics",
+      "usSports": "US Sports",
+      "climbing": "Climbing",
+      "motorsport": "Motorsport",
+      "esports": "Esports",
+      "arts": "Arts",
+      "design": "Design",
+      "fashion": "Fashion",
+      "architecture": "Architecture",
+      "luxury": "Luxury",
+      "beauty": "Beauty",
+      "video": "Video"
+    },
+    "info": {
+      "copy": "© 2024 Artyom Bochkar for practice at ITMO University",
+      "conditions": "Terms & Conditions",
+      "cookies": "Cookies",
+      "ads": "Ads",
+      "aboutUs": "About us",
+      "join": "Join our team"
+    }
+  },
+  "content": [
+    {
+      "image": "https://i.postimg.cc/q77zCTS0/temp-Image-Q04d-Mq.avif",
+      "title": "Apple Introduces New M4 Chip: More Powerful Than Ever!",
+      "description": "<p>Apple has officially announced its latest M4 chip, which they claim significantly outperforms the previous generation M3 in terms of performance and energy efficiency. The chip is built on a 3nm process and includes an increased number of CPU and GPU cores, as well as an improved Neural Engine for machine learning tasks. The M4 is expected to be used in new MacBook Air and iPad Pro models.</p><p>According to Apple representatives, the M4 provides up to 50% performance increase in graphics tasks and up to 30% in machine learning tasks compared to the M3. This unlocks new possibilities for game developers and professional applications, and also ensures a smoother and more responsive interface. In addition, the M4 chip has become even more energy-efficient, which will increase the battery life of devices.</p>",
+      "date": "2025-02-15T14:32:18"
+    },
+    {
+      "image": "https://i.postimg.cc/nM8DvP72/temp-Imagee-Av26w.avif",
+      "title": "Shock in America: Donald Trump Makes Sensational Return to the White House!",
+      "description": "<p>The results of the 2025 US presidential election have plunged the world into a state of shock: Donald Trump, who already held the presidency from 2017 to 2021, has achieved an unexpected victory over incumbent President (insert name, if desired) and has been re-elected as head of state.</p><p>Trump's election campaign was built on populist slogans and promises to restore America to its former glory. His supporters welcomed his return as a symbol of change and hope for a better future.</p><p>However, the election results have sparked a wave of protests and outrage among his opponents, who fear a return to a policy of isolationism, protectionism, and social intolerance. The world community is holding its breath, waiting to see how the new Trump administration will behave on the international stage and what consequences this will have for global stability and security.</p>",
+      "date": "2025-01-20T08:02:45"
+    },
+    {
+      "image": "https://i.postimg.cc/ZRWkN7JC/temp-Imagel8qxp-V.avif",
+      "title": "Merger of the Century: Microsoft Acquires TikTok for a Record $100 Billion!",
+      "description": "<p>The tech world is shaken by the news that Microsoft has reached an agreement to acquire the popular social network TikTok from Chinese company ByteDance for a staggering $100 billion. This would be the largest acquisition in Microsoft's history and one of the most significant deals in the history of the tech industry.</p><p>According to experts, Microsoft is interested in TikTok due to the platform's huge user base (especially among young people) and its advanced algorithms that allow for personalized content and keep the audience engaged. Acquiring TikTok will allow Microsoft to strengthen its position in the field of social networks and expand its presence in the mobile application market.</p><p>The deal is under close scrutiny by regulators in the US and other countries, who fear that it could violate antitrust laws and create risks to user data privacy. However, Microsoft is confident that it will be able to successfully pass all the necessary approval procedures and integrate TikTok into its ecosystem, creating a powerful new hub for digital entertainment and communications.</p>",
+      "date": "2024-12-15T10:31:37"
+    },
+    {
+      "image": "https://i.postimg.cc/nV1bNDMR/temp-Image1e-Sx-DD.avif",
+      "title": "Triumph of the Avant-Garde: Dior Unveils New Collection Reimagining Classics",
+      "description": "<p>At the recent Paris Fashion Week, Dior made a splash, presenting a collection that boldly combines the brand's historical heritage with modern avant-garde trends. The House's creative director, Maria Grazia Chiuri, once again proved her talent, offering viewers a glimpse into the fashion of the future inspired by the past.</p><p>Key elements of the collection included deconstructed silhouettes, asymmetrical draping, and unexpected combinations of materials. The classic Bar jacket was reinterpreted in several variations, from cropped models to transforming dresses. Emphasis was placed on playing with textures: silk, organza, tweed, and leather were combined in the most unexpected proportions.</p><p>Accessories attracted special attention: massive choker necklaces, futuristic glasses, and bags of unusual shapes. Overall, the Dior Spring-Summer 2025 collection became a manifesto of boldness, innovation, and respect for tradition, solidifying the brand's position as one of the leaders of modern fashion.</p>",
+      "date": "2024-12-05T12:04:23"
+    },
+    {
+      "image": "https://i.postimg.cc/2SG166H2/temp-Imagez-Nq3-Vh.avif",
+      "title": "Historic Moment: Young Gymnast Sensationally Wins World Championship!",
+      "description": "<p>Yesterday, a sensation occurred at the World Artistic Gymnastics Championships: 16-year-old Maria Ivanova, a debutante at the tournament, won the gold medal in the individual all-around! This victory marks the first for Russia in this discipline in the last 15 years.</p><p>Maria demonstrated incredible stability and skill in all four events of the program: vault, uneven bars, balance beam, and floor exercise. Her complex combinations and flawless execution captivated the judges and the audience.</p><p>This victory opens the way for Maria to the 2028 Olympic Games in Los Angeles, where she will certainly be one of the main contenders for medals. Congratulations to Maria on her triumph and we wish her further success in her sporting career!</p>",
+      "date": "2024-11-20T18:45:49"
+    },
+    {
+      "image": "https://i.postimg.cc/26mhtJXK/temp-Image2-Cx-XP0.avif",
+      "title": "Halloween 2024: A Global Celebration of Spooky Fun!",
+      "description": "<p>Halloween, celebrated on October 31st, remains a beloved holiday worldwide. It brings people together to embrace the spooky side of life with costumes, candy, and decorations.</p><p>In the US, Halloween is a major cultural event. Families decorate homes with pumpkins and cobwebs, and children dress up and trick-or-treat. Halloween parties are also popular, where adults and children alike dress up and enjoy treats.</p><p>Beyond the US, Halloween is also celebrated in other countries. In Mexico and Latin America, they celebrate the Day of the Dead (Día de los Muertos), honoring the deceased with colorful altars and parades. In Ireland, where Halloween originated, bonfires and fortune-telling are traditional. Halloween is a global phenomenon embracing fun and the supernatural.</p>",
+      "date": "2024-10-31T00:00:18"
+    }
+  ]
+}

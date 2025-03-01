@@ -1,0 +1,114 @@
+{
+  "header": {
+    "pages": {
+      "home": "Accueil",
+      "world": "Monde",
+      "politics": "Politique",
+      "tech": "Technologie",
+      "sport": "Sports",
+      "culture": "Culture"
+    },
+    "search": "Rechercher"
+  },
+  "footer": {
+    "pages": {
+      "world": "Monde",
+      "politics": "Politique",
+      "business": "Affaires",
+      "tech": "Technologie",
+      "sport": "Sports",
+      "culture": "Culture"
+    },
+    "subpages": {
+      "africa": "Afrique",
+      "america": "Amérique",
+      "asia": "Asie",
+      "australia": "Australie",
+      "china": "Chine",
+      "europe": "Europe",
+      "india": "Inde",
+      "middleEast": "Moyen-Orient",
+      "ukrain": "Ukraine",
+      "facts": "Faits",
+      "currentYear": "2025",
+      "midterms": "Élections de mi-mandat",
+      "markets": "Marchés",
+      "tech": "Technologie",
+      "media": "Médias",
+      "success": "Succès",
+      "perspectives": "Perspectives",
+      "videos": "Vidéos",
+      "innovate": "Innover",
+      "gadget": "Gadget",
+      "foreseeable": "Prévisible",
+      "future": "Futur",
+      "ahead": "En avant",
+      "upstarts": "Nouveaux venus",
+      "work": "Travail",
+      "transformed": "Transformé",
+      "innovative": "Innovant",
+      "cities": "Villes",
+      "football": "Football",
+      "tennis": "Tennis",
+      "golf": "Golf",
+      "olympics": "Jeux Olympiques",
+      "usSports": "Sports US",
+      "climbing": "Escalade",
+      "motorsport": "Sport automobile",
+      "esports": "Esports",
+      "arts": "Arts",
+      "design": "Design",
+      "fashion": "Mode",
+      "architecture": "Architecture",
+      "luxury": "Luxe",
+      "beauty": "Beauté",
+      "video": "Vidéo"
+    },
+    "info": {
+      "copy": "© 2024 Artyom Bochkar pour la pratique à l'Université ITMO",
+      "conditions": "Termes & Conditions",
+      "cookies": "Cookies",
+      "ads": "Publicités",
+      "aboutUs": "À propos de nous",
+      "join": "Rejoignez notre équipe"
+    }
+  },
+  "content": [
+    {
+      "image": "https://i.postimg.cc/q77zCTS0/temp-Image-Q04d-Mq.avif",
+      "title": "Apple présente la nouvelle puce M4 : plus puissante que jamais !",
+      "description": "<p>Apple a officiellement annoncé sa dernière puce M4, qui, selon elle, surpasse considérablement la génération précédente M3 en termes de performances et d'efficacité énergétique. La puce est construite sur un processus de 3 nm et comprend un nombre accru de cœurs CPU et GPU, ainsi qu'un Neural Engine amélioré pour les tâches d'apprentissage automatique. Le M4 devrait être utilisé dans les nouveaux modèles MacBook Air et iPad Pro.</p><p>Selon les représentants d'Apple, le M4 offre une augmentation des performances allant jusqu'à 50 % dans les tâches graphiques et jusqu'à 30 % dans les tâches d'apprentissage automatique par rapport au M3. Cela ouvre de nouvelles possibilités pour les développeurs de jeux et les applications professionnelles, et assure également une interface plus fluide et plus réactive. De plus, la puce M4 est devenue encore plus économe en énergie, ce qui augmentera l'autonomie des appareils.</p>",
+      "date": "2025-02-15T14:32:18"
+    },
+    {
+      "image": "https://i.postimg.cc/nM8DvP72/temp-Imagee-Av26w.avif",
+      "title": "Choc en Amérique : Donald Trump fait un retour sensationnel à la Maison Blanche !",
+      "description": "<p>Les résultats de l'élection présidentielle américaine de 2025 ont plongé le monde dans un état de choc : Donald Trump, qui avait déjà occupé la présidence de 2017 à 2021, a remporté une victoire inattendue sur le président sortant (insérer le nom, si désiré) et a été réélu chef de l'État.</p><p>La campagne électorale de Trump était basée sur des slogans populistes et des promesses de rendre à l'Amérique sa gloire passée. Ses partisans ont salué son retour comme un symbole de changement et d'espoir pour un avenir meilleur.</p><p>Cependant, les résultats des élections ont déclenché une vague de protestations et d'indignation parmi ses opposants, qui craignent un retour à une politique d'isolationnisme, de protectionnisme et d'intolérance sociale. La communauté mondiale retient son souffle, attendant de voir comment la nouvelle administration Trump se comportera sur la scène internationale et quelles conséquences cela aura pour la stabilité et la sécurité mondiales.</p>",
+      "date": "2025-01-20T08:02:45"
+    },
+    {
+      "image": "https://i.postimg.cc/ZRWkN7JC/temp-Imagel8qxp-V.avif",
+      "title": "Fusion du siècle : Microsoft acquiert TikTok pour un montant record de 100 milliards de dollars !",
+      "description": "<p>Le monde de la technologie est ébranlé par l'annonce selon laquelle Microsoft a conclu un accord pour acquérir le réseau social populaire TikTok auprès de la société chinoise ByteDance pour la somme stupéfiante de 100 milliards de dollars. Il s'agirait de la plus grande acquisition de l'histoire de Microsoft et de l'une des transactions les plus importantes de l'histoire de l'industrie technologique.</p><p>Selon les experts, Microsoft s'intéresse à TikTok en raison de l'énorme base d'utilisateurs de la plateforme (en particulier chez les jeunes) et de ses algorithmes avancés qui permettent de personnaliser le contenu et de maintenir l'engagement du public. L'acquisition de TikTok permettra à Microsoft de renforcer sa position dans le domaine des réseaux sociaux et d'étendre sa présence sur le marché des applications mobiles.</p><p>L'opération fait l'objet d'un examen attentif de la part des organismes de réglementation aux États-Unis et dans d'autres pays, qui craignent qu'elle ne viole les lois antitrust et ne crée des risques pour la confidentialité des données des utilisateurs. Cependant, Microsoft est convaincue qu'elle sera en mesure de franchir avec succès toutes les procédures d'approbation nécessaires et d'intégrer TikTok dans son écosystème, créant ainsi un nouveau centre puissant pour le divertissement et les communications numériques.</p>",
+      "date": "2024-12-15T10:31:37"
+    },
+    {
+      "image": "https://i.postimg.cc/nV1bNDMR/temp-Image1e-Sx-DD.avif",
+      "title": "Triomphe de l'avant-garde : Dior dévoile une nouvelle collection réimaginant les classiques",
+      "description": "<p>Lors de la récente Semaine de la mode de Paris, Dior a fait sensation en présentant une collection qui combine audacieusement l'héritage historique de la marque avec les tendances avant-gardistes modernes. La directrice artistique de la Maison, Maria Grazia Chiuri, a une fois de plus prouvé son talent en offrant aux spectateurs un aperçu de la mode du futur inspirée du passé.</p><p>Les éléments clés de la collection comprenaient des silhouettes déconstruites, des drapés asymétriques et des combinaisons inattendues de matériaux. La veste Bar classique a été réinterprétée dans plusieurs variantes, des modèles courts aux robes transformables. L'accent a été mis sur le jeu avec les textures : la soie, l'organza, le tweed et le cuir ont été combinés dans les proportions les plus inattendues.</p><p>Les accessoires ont attiré une attention particulière : des colliers ras du cou massifs, des lunettes futuristes et des sacs aux formes inhabituelles. Dans l'ensemble, la collection Dior printemps-été 2025 est devenue un manifeste d'audace, d'innovation et de respect de la tradition, solidifiant la position de la marque comme l'un des leaders de la mode moderne.</p>",
+      "date": "2024-12-05T12:04:23"
+    },
+    {
+      "image": "https://i.postimg.cc/2SG166H2/temp-Imagez-Nq3-Vh.avif",
+      "title": "Moment historique : une jeune gymnaste remporte le championnat du monde de façon sensationnelle !",
+      "description": "<p>Hier, une sensation s'est produite aux Championnats du monde de gymnastique artistique : Maria Ivanova, 16 ans, débutante au tournoi, a remporté la médaille d'or au concours général individuel ! Cette victoire marque la première pour la Russie dans cette discipline depuis 15 ans.</p><p>Maria a démontré une stabilité et une compétence incroyables dans les quatre épreuves du programme : le saut de cheval, les barres asymétriques, la poutre et les exercices au sol. Ses combinaisons complexes et son exécution impeccable ont captivé les juges et le public.</p><p>Cette victoire ouvre la voie à Maria pour les Jeux olympiques de 2028 à Los Angeles, où elle sera certainement l'une des principales prétendantes aux médailles. Félicitations à Maria pour son triomphe et nous lui souhaitons beaucoup de succès dans sa carrière sportive !</p>",
+      "date": "2024-11-20T18:45:49"
+    },
+    {
+      "image": "https://i.postimg.cc/26mhtJXK/temp-Image2-Cx-XP0.avif",
+      "title": "Halloween 2024 : une célébration mondiale du plaisir effrayant !",
+      "description": "<p>Halloween, célébrée le 31 octobre, reste une fête appréciée dans le monde entier. Elle rassemble les gens pour embrasser le côté effrayant de la vie avec des costumes, des bonbons et des décorations.</p><p>Aux États-Unis, Halloween est un événement culturel majeur. Les familles décorent leurs maisons avec des citrouilles et des toiles d'araignées, et les enfants se déguisent et font du porte-à-porte pour récolter des bonbons. Les fêtes d'Halloween sont également populaires, où les adultes et les enfants se déguisent et dégustent des friandises.</p><p>Au-delà des États-Unis, Halloween est également célébrée dans d'autres pays. Au Mexique et en Amérique latine, on célèbre le Jour des Morts (Día de los Muertos), en honorant les défunts avec des autels et des défilés colorés. En Irlande, où Halloween a vu le jour, les feux de joie et la divination sont traditionnels. Halloween est un phénomène mondial qui embrasse le plaisir et le surnaturel.</p>",
+      "date": "2024-10-31T00:00:18"
+    }
+  ]
+}
